@@ -10,7 +10,7 @@
         <body> 
             <div class="Circle"></div>
         </body>
-        </html>
+        
 *{
      margin: 0; 
      padding: 0; 
@@ -32,3 +32,4 @@
       margin-right: 500px;
       transform: rotate(30 degree);
     }
+    </html>
