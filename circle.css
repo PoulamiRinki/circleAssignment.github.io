@@ -1,0 +1,21 @@
+*{
+     margin: 0; 
+     padding: 0; 
+     background-color: #E3516E;
+    }
+.Circle{
+     width: 0px; 
+     height: 0px; 
+     border: 150px; 
+     border-radius: 100%;
+     border-width: 200px;
+     border-color: black;
+      border-style: solid; 
+      border-bottom-color: #f7f3D7; 
+      border-top-color: #FADE8B;
+       border-left-color: #51B5A9; 
+      border-right-color: transparent; 
+      margin-left: 200px;
+      margin-right: 500px;
+      transform: rotate(30 degree);
+    }
